@@ -5,3 +5,5 @@ Simple Django learning project following the amazing book Django for Beginners b
 The project is very basic, just showing posts in a list view, edited from the admin account. 
 
 Tests included covering the model/database and page response
+
+The project contains one App called post to publish the post on the homepage
